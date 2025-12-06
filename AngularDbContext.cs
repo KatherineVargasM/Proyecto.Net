@@ -1,8 +1,8 @@
-﻿using ApiAngular.Models;
+﻿using Api_Angular.Models;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 
-namespace ApiAngular
+namespace Api_Angular
 {
     public class AngularDbContext : DbContext
     {
